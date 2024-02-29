@@ -34,6 +34,7 @@ namespace Ejercicio_I09
                     Console.Write("*");
                }
                Console.WriteLine();
+                // Este es un cambio de ultimo minuto 
             }
         }
     }
